@@ -1,0 +1,13 @@
+.div_titulo {
+  padding: 100px;
+  text-align: center;
+  border: 1px solid;
+  background-color: brown;
+}
+.div_video {
+  object-fit: cover;
+  position: absolute 0;
+}
+.tamaño_video {
+  width: 100%;
+}
